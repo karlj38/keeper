@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/keeper-live/static/js/main.bb2ada03.chunk.js",
-    "main.js.map": "/keeper-live/static/js/main.bb2ada03.chunk.js.map",
+    "main.js": "/keeper-live/static/js/main.ee9670c7.chunk.js",
+    "main.js.map": "/keeper-live/static/js/main.ee9670c7.chunk.js.map",
     "runtime-main.js": "/keeper-live/static/js/runtime-main.c8598e8d.js",
     "runtime-main.js.map": "/keeper-live/static/js/runtime-main.c8598e8d.js.map",
     "static/js/2.cb4d490e.chunk.js": "/keeper-live/static/js/2.cb4d490e.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.c8598e8d.js",
     "static/js/2.cb4d490e.chunk.js",
-    "static/js/main.bb2ada03.chunk.js"
+    "static/js/main.ee9670c7.chunk.js"
   ]
 }
