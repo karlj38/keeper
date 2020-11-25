@@ -21,8 +21,10 @@ export function Create(props) {
 
   function handleSubmit(event) {
     event.preventDefault();
-    props.addNote(newNote);
-    setNewNote({ title: "", content: "" });
+    if (newNote.content) {
+      props.addNote(newNote);
+      setNewNote({ title: "", content: "" });
+    }
   }
 
   return (
